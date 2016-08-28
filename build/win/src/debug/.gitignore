@@ -1,0 +1,16 @@
+/device.obj
+/material.dll
+/material.exp
+/material.ilk
+/material.lib
+/material.pdb
+/moc_device.cpp
+/moc_device.obj
+/moc_plugin.cpp
+/moc_plugin.obj
+/moc_units.cpp
+/moc_units.obj
+/plugin.obj
+/qrc_core_icons.cpp
+/qrc_core_icons.obj
+/units.obj
