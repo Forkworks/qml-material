@@ -48,7 +48,7 @@ linux {
     qmldir.CONFIG += no_check_exist
 }
 win32 {
-    message("WARNING: Not implemented config yet...!!!")
+    message("WARNING: Installation target Not implemented yet...!!!")
     qmldir.path = $$[QT_INSTALL_QML]/Material
 }
 
